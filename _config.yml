@@ -85,8 +85,8 @@ author:
   bio              : "Data Analyst at Seyfarth Shaw"
   location         : "Chicago, Illinois"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -98,7 +98,7 @@ author:
   foursquare       :
   github           : "alexbakr"
   google_plus      :
-  kaggle           :
+  kaggle           : "alexbakr"
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
