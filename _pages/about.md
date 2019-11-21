@@ -8,17 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-
-
-A data-driven personal website
-======
-
-
-Getting started
-======
-
-Site-wide configuration
-------
-
-Create content & metadata
-------
+I’m a Data Analysis and Strategic Pricing Coordinator at Seyfarth Shaw. I completed my undergrad in Computer Science from [Ball State University](https://www.bsu.edu/academics/collegesanddepartments/computer-science). My personal research is on quantitative finance, or mathematical modeling of financial markets.
