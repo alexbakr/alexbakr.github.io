@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, Ball State University, 2019
-* M.S. in Data Science, University of California San Diego, 2021 (expected)
+* Micro Masters in Data Science, University of California San DiegoX, 2020 (expected)
 
 Work experience
 ======
