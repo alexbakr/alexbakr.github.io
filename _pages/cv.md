@@ -47,4 +47,6 @@ Skills
   * MySQL
   * SQLITE
 * R
+* Apache Spark
+* Tableau
 * Project Management
