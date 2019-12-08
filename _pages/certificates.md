@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Certifications"
+permalink: /certifications/
+author_profile: true
+redirect_from: 
+  - /wordpress/academic-papers/
+---
+
+{% include base_path %}
+
+{% for post in site.articles reversed %}
+  {% include archive-single.html %}
+{% endfor %}

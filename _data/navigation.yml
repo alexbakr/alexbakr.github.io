@@ -11,7 +11,10 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
-        
+  
+    
+  - title: "Certificates"
+    url: /certificates/  
   # - title: "Blog Posts"
   #   url: /year-archive/
     
