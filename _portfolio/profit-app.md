@@ -4,3 +4,4 @@ excerpt: "Apps in both the App Store and Google Play that are profitable"
 collection: portfolio
 ---
 
+<a href = "files\Profitable App Profiles for the App Store and Google Play Markets.html">
