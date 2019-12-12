@@ -5,5 +5,5 @@ collection: portfolio
 ---
 
 
-<a href = "http://alexbakr.github.io/files/Clean And Analyze Employee Exit Surveys.html">View The Notebook Here</a>
+<a href = "http://alexbakr.github.io/files/Clean And Analyze Employee Exit Surveys.html">View The Notebook Here</a><br>
 <a href = "http://alexbakr.github.io/files/Clean And Analyze Employee Exit Surveys.ipynb">Download The Notebook Here</a>
