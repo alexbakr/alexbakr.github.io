@@ -4,3 +4,6 @@ excerpt: "Are employees who only worked for the institutes for a short period of
 collection: portfolio
 ---
 
+
+<a href = "http://alexbakr.github.io/files/Clean And Analyze Employee Exit Surveys.html">View The Notebook Here</a>
+<a href = "http://alexbakr.github.io/files/Clean And Analyze Employee Exit Surveys.ipynb">Download The Notebook Here</a>
