@@ -3,6 +3,6 @@ title: "UC San Diego Micro Masters"
 excerpt: "Coursework and research from my micromasters program"
 collection: research
 ---
-{% include base_path %}
+
 <a href = "http://alexbakr.github.io/files/911 Calls Final Project.pdf">911 Call Analysis</a><br>
 <a href = "http://alexbakr.github.io/files/Mini Project.pdf">Export Arms Analysis</a>
