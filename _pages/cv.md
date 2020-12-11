@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, Ball State University, 2019
-* Micro Masters in Data Science, University of California San DiegoX, April 2020 (expected)
+* Masters in Data Science, Indiana University Bloomington, December 2021 (expected)
 
 Work experience
 ======
-* May 2019: Data Analysis/Strategic Pricing Coordinator
+* May 2019 - February 2020: Data Analysis/Strategic Pricing Coordinator
   * Seyfarth Shaw
   * Duties included: Mine information about past investments in different types of work to develop reliable budget estimates
  
